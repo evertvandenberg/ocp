@@ -1,7 +1,5 @@
 package nl.ing.ocp.generics.GenericBox;
 
-import com.sun.tools.javac.util.StringUtils;
-
 import java.util.Formatter;
 
 /**
