@@ -26,7 +26,7 @@ public class Runner {
         == when their primitiv values are the same:
         * Boolean
         * Byte
-        * Character (from \u000 to \u007f (7f is 127 in decimal)
+        * Character (from \\u000 to \\u007f (7f is 127 in decimal)
         * Short and Integer from -128 to 127
         *
 
